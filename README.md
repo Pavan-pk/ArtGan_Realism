@@ -1,7 +1,5 @@
 # ArtGan
 
-## Project is on going and not yet completed.
-
 General Idea:
 Translating real images to Realism art style images. This art style dates back to the 17th century and there is no image-to-image pair data available to train traditional networks, So here I am implementing ideas expressed in the paper ***Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (https://arxiv.org/pdf/1703.10593v7.pdf)*** and creating a GAN to transfer real Image to realism art style image, a bi-product of this implementation will also be capable to convert Realism art style images to somewhat real photo.  
 
